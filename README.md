@@ -29,8 +29,8 @@ Print the output.
 ```
 '''
 Program for copying the contents from one file to another file.
-Developed by: Siva Chandran R
-#RegisterNumber:22005531
+Developed by: Marella Dharanesh
+#RegisterNumber:22000785
 '''
 with open("git.txt","r") as f1:
     with open("MyFile.txt","a") as f2:
